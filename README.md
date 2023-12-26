@@ -41,39 +41,7 @@ dataset : https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview
 ## Data Cleaning
  we had created two parameters 'h' representing a header or list of column names and 'l_data' representing a list of lists containing data. Here indices are identified from the coloumns 'id', 'last_review', and 'name'. Few coloumns names are changed to be more readable and some unwanted columns are deleted, Moreover it deletes corresponding columns in the data rows to clean the dataset.Finally it streamlines the dataset by renaming columns and removing unnecessary data columns.
 ## Normalization
-Normalised the rawdata into 3 tables, Host, Neighborhood, Listings.
-
-Host table holds the data of hosts of all the listings.
-Columns: HostID(PK), HostName, NumberOfListings
-
-** HostID - Each host has an Unique ID 
-** HostName - Host's Name
-** NumberOfListings - Number of Listings under that host
-
-
-Neighborhood table holds the data of airbnb listing locations.
-Columns: NeighborhoodID(PK), NeighborhoodGroup, Neighborhood
-
-** NeighborhoodID - Each Neighborhood has an Unique ID
-** NeighborhoodGroup - Each Neighborhood's Area Location
-** Neighborhood - Neighborhood's Name
-
-
-Listing table holds the data of available airbnb listings in New York.
-Columns: ListingID(PK), ListingName, HostID(FK), NeighborhoodID(FK), Latitude, Longitude, ListingType, Price, MinimumNights, NumberOfReviews, MonthlyReviewRate, Availability_365
-
-** ListingID  - UniqueID for each Listing
-** ListingName - Name of each listing
-** HostID - Host information of each lisitng (Referencing HostID from Host table)
-** NeighborhoodID - Neighborhood information for each listing (Referencing HostID from Host table)
-** Latitude - Latitude information of the listing
-** Longitude - Longitude information of the listing
-** ListingType - Type of the listing(Entire Home/ Apartment or Single Room)
-** Price - Price per night of the listing
-** MinimumNights - The minimum number of nights required for booking the listing
-** NumberOfReviews - The total number of reviews the listing has received
-** MonthlyReviewRate - The average number of reviews the listing receives per month
-** Availability_365 - The number of days the listing is available for booking in a year
+we have Normalized the raw data into 3 tables, Host, Neighborhood, Listings to remove transitive dependencies
 
 ### Host Table
 | Column Name         | Description                                   |
