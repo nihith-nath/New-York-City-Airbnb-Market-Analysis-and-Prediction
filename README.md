@@ -82,3 +82,25 @@ we have Normalized the raw data into 3 tables, Host, Neighborhood, Listings to r
 
 ## EDA
 
+## Conclusion
+
+In conclusion, our project conducted an in-depth analysis of the dynamic New York City Airbnb market, revealing significant insights. We meticulously explored room availability, categorized neighborhoods, and pinpointed locations near key tourist attractions, leading to the following key findings and insights.
+
+### Key Findings:
+
+#### Geographical Trends:
+- Manhattan and Brooklyn are the most dominant areas in terms of both listing count and prices.
+- Airbnb listings are densely concentrated around popular tourist spots, including Times Square, the Empire State Building, and Central Park.
+
+#### Listing Type:
+- Entire apartments are the most popular listing type in New York City.
+
+#### Availability Analysis:
+- Most Airbnb listings exhibit limited availability throughout the year.
+- The scarcity of short-term rentals in NYC contributes to elevated prices.
+
+#### Correlation Analysis:
+- The correlation matrix suggests that the prices of Airbnb listings in NYC are majorly influenced by the listing type and longitude, suggesting there is a notable relationship between the type of listing (such as entire home/apartment or private room) and the geographical location (longitude) with the pricing of the listings.
+
+These insights provide a comprehensive understanding of the New York City Airbnb market, enabling better decision-making for both hosts and guests in the dynamic and competitive environment.
+
