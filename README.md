@@ -37,6 +37,8 @@ In this Project, we used the Airbnb NYC dataset from Kaggle. The main objectives
 ## Code & Resources Used
 this Data set was obtained from Kaggle
 dataset : https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview
+Data Source: The dataset was obtained from Kaggle. It comprises a dataset of size [48896*16] with columns including listing
+names, host details, location coordinates, pricing, and availability metrics. 
 
 ## Data Cleaning
 
