@@ -83,7 +83,7 @@ Columns: ListingID(PK), ListingName, HostID(FK), NeighborhoodID(FK), Latitude, L
 ** Availability_365 - The number of days the listing is available for booking in a year
 
 
-![image](relationschema.png)
+![image](relationschema.jpeg)
 
 
 
