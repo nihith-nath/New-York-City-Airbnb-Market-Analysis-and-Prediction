@@ -101,6 +101,10 @@ During the Exploratory Data Analysis (EDA) phase, we visualized various aspects 
 
 These visualizations provide valuable insights into the geographical trends, availability, and distribution of listing types in the New York City Airbnb dataset. Further analysis can be performed based on these findings to inform strategic decisions for both hosts and potential guests.
 
+3.  **Horizontal Bar Chart**:
+   - Illustrates the distribution of listings by listing type, with the majority being of the "Entire home/apt" type, comprising approximately 52% of the total listings in the dataset.
+4. **Scatter Plot**:
+   - Depicts the relationship between room type, price, and neighborhood group in the dataset, highlighting the distribution of prices across different room types and neighborhood groups.
 
 ## Conclusion
 
