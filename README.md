@@ -84,6 +84,23 @@ we have Normalized the raw data into 3 tables, Host, Neighborhood, Listings to r
 
 
 ## EDA
+## Exploratory Data Analysis (EDA)
+
+During the Exploratory Data Analysis (EDA) phase, we visualized various aspects of the Airbnb dataset to gain insights into the distribution of listings, availability, and location. The following graphs provide a comprehensive analysis of the data:
+
+1. **Donut Chart: Percentage Distribution of Listings Across Neighborhood Groups**
+   - Manhattan & Brooklyn collectively dominate the market, with Manhattan (44.3%) and Brooklyn (41.1%) resulting in a combined share of over 80%.
+
+   ![Donut Chart](path/to/donut_chart.png)
+
+2. **Stacked Column Chart: Distribution of Listing Counts Based on Availability Bins and Location**
+   - Approximately 40% of listings fall within the 0-20 days availability bin.
+   - Most properties have limited availability, indicating a strong presence of short-term rental options.
+
+   ![Stacked Column Chart](path/to/stacked_column_chart.png)
+
+These visualizations provide valuable insights into the geographical trends, availability, and distribution of listing types in the New York City Airbnb dataset. Further analysis can be performed based on these findings to inform strategic decisions for both hosts and potential guests.
+
 
 ## Conclusion
 
