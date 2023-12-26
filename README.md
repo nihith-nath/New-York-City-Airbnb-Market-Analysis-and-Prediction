@@ -114,8 +114,8 @@ During the Exploratory Data Analysis (EDA) phase, we visualized various aspects 
       
    ![Scatter Map Plot](path/to/scatter_map_plot.png)
 
-6.**Bar Chart**:
-   - Depicts the average listing prices in different neighborhood groups in NYC, highlighting variations in prices across neighborhoods. Manhattan has the highest average listing price of around 197$.
+6. **Bar Chart**:
+     - Depicts the average listing prices in different neighborhood groups in NYC, highlighting variations in prices across neighborhoods. Manhattan has the highest average listing price of around 197$.
 
      ![Bar Chart](path/to/bar_chart.png)
 ## Conclusion
