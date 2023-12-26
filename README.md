@@ -40,8 +40,8 @@ dataset : https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview
 
 ## Data Cleaning
 
-• Parsed the TSV file to extract the header and listing data.
-• Cleaned the data by renaming columns, removing unwanted columns, and handling missing values
+- Parsed the TSV file to extract the header and listings data.
+- Cleaned the data by renaming columns, removing unwanted columns, and handling missing values
 
 ## Normalization
 we have Normalized the raw data into 3 tables, Host, Neighborhood, Listings to remove transitive dependencies
