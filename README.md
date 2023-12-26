@@ -15,7 +15,13 @@ Airbnb market.
 # Project overview
 In this Project, we used the Airbnb NYC dataset from Kaggle. The main objectives were to handle data precisely and adhere to project guidelines. We used Python to parse the raw data, organized it into a well-structured database, and harnessed SQL to merge it for analysis using Pandas. Once these steps were completed, we had the freedom to choose our next path. We  explored advanced data analysis with interactive elements and experimented with machine learning for predictions. Our project's success relied on executing each step meticulously, sharing our findings, and presenting a concise report. 
 
-# Airbnb Price Prediction Project DataSet Overview
+## Code & Resources Used
+This data set was obtained from Kaggle
+- Dataset : https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview
+- Data Source: The dataset was obtained from Kaggle. It comprises a dataset of size [48896*16] with columns including listing
+names, host details, location coordinates, pricing, and availability metrics.
+
+## Airbnb Price Prediction Project DataSet Overview
 
 | Column Name                       | Description                                            |
 |-----------------------------------|--------------------------------------------------------|
@@ -34,11 +40,6 @@ In this Project, we used the Airbnb NYC dataset from Kaggle. The main objectives
 | availability_365                  | The number of days the Airbnb listing is available for booking in a year. (Integer)|
 | NeighborhoodID                    | Neighborhood information for each listing (Referencing HostID from Host table)|
 
-## Code & Resources Used
-This data set was obtained from Kaggle
-- Dataset : https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview
-- Data Source: The dataset was obtained from Kaggle. It comprises a dataset of size [48896*16] with columns including listing
-names, host details, location coordinates, pricing, and availability metrics. 
 
 ## Data Cleaning
 
