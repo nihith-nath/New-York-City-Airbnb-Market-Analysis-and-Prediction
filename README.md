@@ -35,9 +35,9 @@ In this Project, we used the Airbnb NYC dataset from Kaggle. The main objectives
 | NeighborhoodID                    | Neighborhood information for each listing (Referencing HostID from Host table)|
 
 ## Code & Resources Used
-this Data set was obtained from Kaggle
-dataset : https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview
-Data Source: The dataset was obtained from Kaggle. It comprises a dataset of size [48896*16] with columns including listing
+This data set was obtained from Kaggle
+- Dataset : https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview
+- Data Source: The dataset was obtained from Kaggle. It comprises a dataset of size [48896*16] with columns including listing
 names, host details, location coordinates, pricing, and availability metrics. 
 
 ## Data Cleaning
