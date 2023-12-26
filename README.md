@@ -1,4 +1,4 @@
-# New-York-City-Airbnb-Market-Analysis-and-Prediction
+# New-York-City-Airbnb-Market-Analysis-and-Price-Prediction
 New York City Airbnb Market Analysis and Prediction
 # Python Pro's is the name of the team
 # Problem Statement
