@@ -75,6 +75,36 @@ Columns: ListingID(PK), ListingName, HostID(FK), NeighborhoodID(FK), Latitude, L
 ** MonthlyReviewRate - The average number of reviews the listing receives per month
 ** Availability_365 - The number of days the listing is available for booking in a year
 
+### Host Table
+| Column Name         | Description                                   |
+|---------------------|-----------------------------------------------|
+| HostID (PK)         | Unique ID for each host                       |
+| HostName            | Host's Name                                   |
+| NumberOfListings    | Number of Listings under that host            |
+
+### Neighborhood Table
+| Column Name         | Description                                   |
+|---------------------|-----------------------------------------------|
+| NeighborhoodID (PK) | Unique ID for each Neighborhood               |
+| NeighborhoodGroup   | Each Neighborhood's Area Location             |
+| Neighborhood        | Neighborhood's Name                           |
+
+### Listing Table
+| Column Name          | Description                                                |
+|----------------------|------------------------------------------------------------|
+| ListingID (PK)       | Unique ID for each Listing                                  |
+| ListingName          | Name of each listing                                        |
+| HostID (FK)          | Host information of each listing (Referencing HostID from Host table) |
+| NeighborhoodID (FK)  | Neighborhood information for each listing (Referencing HostID from Host table) |
+| Latitude             | Latitude information of the listing                        |
+| Longitude            | Longitude information of the listing                       |
+| ListingType          | Type of the listing (Entire Home/Apartment or Single Room) |
+| Price                | Price per night of the listing                              |
+| MinimumNights        | The minimum number of nights required for booking the listing |
+| NumberOfReviews      | The total number of reviews the listing has received        |
+| MonthlyReviewRate    | The average number of reviews the listing receives per month|
+| Availability_365     | The number of days the listing is available for booking in a year |
+
 
 ![image](relationschema.jpeg)
 
