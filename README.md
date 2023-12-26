@@ -126,7 +126,7 @@ During the Exploratory Data Analysis (EDA) phase, we visualized various aspects 
    - Analyzed the correlation matrix to identify relationships between variables.
    - Strong Negative Co-relation of Listing Type and Longitude Predictors with Price has been observed
      
-![corelation_matrix](path/to/bar_chart.png)
+![corelation_matrix](corelation_mat.png)
 
 ## Conclusion
 
