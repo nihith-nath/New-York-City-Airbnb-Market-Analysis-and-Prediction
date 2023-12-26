@@ -44,7 +44,7 @@ dataset : https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview
 - Cleaned the data by renaming columns, removing unwanted columns, and handling missing values
 
 ## Normalization
-we have Normalized the raw data into 3 tables, Host, Neighborhood, Listings to remove transitive dependencies
+we have Normalized the raw data into 3 tables, Host, Neighborhood, Listings to remove transitive dependencies improving Data Integrity and to prevent Insertion,Updation and Deletion Anamolies
 
 ### Host Table
 | Column Name         | Description                                   |
