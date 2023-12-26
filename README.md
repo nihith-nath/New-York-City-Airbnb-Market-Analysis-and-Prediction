@@ -115,9 +115,9 @@ During the Exploratory Data Analysis (EDA) phase, we visualized various aspects 
    ![Scatter Map Plot](path/to/scatter_map_plot.png)
 
 6.**Bar Chart**:
-    - Depicts the average listing prices in different neighborhood groups in NYC, highlighting variations in prices across neighborhoods. Manhattan has the highest average listing price of around 197$.
+   - Depicts the average listing prices in different neighborhood groups in NYC, highlighting variations in prices across neighborhoods. Manhattan has the highest average listing price of around 197$.
 
-   ![Bar Chart](path/to/bar_chart.png)
+     ![Bar Chart](path/to/bar_chart.png)
 ## Conclusion
 
 In conclusion, our project conducted an in-depth analysis of the dynamic New York City Airbnb market, revealing significant insights. We meticulously explored room availability, categorized neighborhoods, and pinpointed locations near key tourist attractions, leading to the following key findings and insights.
