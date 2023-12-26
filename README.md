@@ -39,7 +39,10 @@ this Data set was obtained from Kaggle
 dataset : https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview
 
 ## Data Cleaning
- we had created two parameters 'h' representing a header or list of column names and 'l_data' representing a list of lists containing data. Here indices are identified from the coloumns 'id', 'last_review', and 'name'. Few coloumns names are changed to be more readable and some unwanted columns are deleted, Moreover it deletes corresponding columns in the data rows to clean the dataset.Finally it streamlines the dataset by renaming columns and removing unnecessary data columns.
+
+• Parsed the TSV file to extract the header and listing data.
+• Cleaned the data by renaming columns, removing unwanted columns, and handling missing values
+
 ## Normalization
 we have Normalized the raw data into 3 tables, Host, Neighborhood, Listings to remove transitive dependencies
 
@@ -75,7 +78,6 @@ we have Normalized the raw data into 3 tables, Host, Neighborhood, Listings to r
 
 
 ![image](relationschema.jpeg)
-
 
 
 ## EDA
