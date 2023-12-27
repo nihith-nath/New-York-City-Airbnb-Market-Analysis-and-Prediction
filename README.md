@@ -107,12 +107,12 @@ During the Exploratory Data Analysis (EDA) phase, we visualized various aspects 
 4. **Scatter Plot**:
     - Depicts the relationship between room type, price, and neighborhood group in the dataset, highlighting the distribution of prices across different room types and neighborhood groups.
 
-    ![Scatter Plot](scatterplot.png)
+    ![Scatter Plot](sctr.png)
 
 5. **Scatter Map Plot**:
     - Illustrates the geographical distribution of listings in NYC based on latitude and longitude, with color-coded markers representing different room types.
       
-   ![Scatter Map Plot](path/to/scatterplot.png)
+   ![Scatter Map Plot](scatterplot.png)
 
 6. **Bar Chart**:
      - Depicts the average listing prices in different neighborhood groups in NYC, highlighting variations in prices across neighborhoods. Manhattan has the highest average listing price of around 197$.
