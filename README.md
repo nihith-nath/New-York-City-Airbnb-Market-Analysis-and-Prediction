@@ -1,6 +1,6 @@
 # New-York-City-Airbnb-Market-Analysis-and-Price-Prediction
-New York City Airbnb Market Analysis and Price Prediction
-# Python Pro's is the name of the team
+New York City Airbnb Market Analysis and Price Prediction # Python Pro's is the name of the team i have collaborated with 
+
 # Problem Statement
 
 In the ever-changing landscape of the New York City Airbnb market, our project aims to analyze data and predict prices,
