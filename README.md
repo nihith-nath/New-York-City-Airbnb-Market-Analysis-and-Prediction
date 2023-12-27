@@ -102,7 +102,7 @@ During the Exploratory Data Analysis (EDA) phase, we visualized various aspects 
 3. **Horizontal Bar Chart**:
     - Illustrates the distribution of listings by listing type, with the majority being of the "Entire home/apt" type, comprising approximately 52% of the total listings in the dataset.
   
-    ![Horizontal Bar Chart](horizontal_bar_chart.png)
+    ![Horizontal Bar Chart](horizantal_bar_chart.png)
 
 4. **Scatter Plot**:
     - Depicts the relationship between room type, price, and neighborhood group in the dataset, highlighting the distribution of prices across different room types and neighborhood groups.
