@@ -1,6 +1,6 @@
 # New-York-City-Airbnb-Market-Analysis-and-Price-Prediction
-New York City Airbnb Market Analysis and Price Prediction # Python Pro's is the name of the team i have collaborated with Keerthana Allam, Hithesh Duttuluri , Charan P
-here is the outcome of the notebook in html: [AirBNB Listing Analysis](AirBNB_Listing_Analysis.html)
+New York City Airbnb Market Analysis and Price Prediction # Python Pro's is the name of the team i have collaborated with Keerthana Allam, Hithesh Duttuluri , Charan P.
+here is the outcome of the notebook in html: [AirBNB Listing Analysis](AirBNB_Listing_Analysis.html) - pls download the file  
 
 
 # Problem Statement
