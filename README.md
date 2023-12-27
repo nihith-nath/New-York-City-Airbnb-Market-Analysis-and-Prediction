@@ -97,30 +97,31 @@ During the Exploratory Data Analysis (EDA) phase, we visualized various aspects 
    - Approximately 40% of listings fall within the 0-20 days availability bin.
    - Most properties have limited availability, indicating a strong presence of short-term rental options.
 
-   ![Stacked Column Chart](path/to/stacked_column_chart.png)
+   ![Stacked Column Chart](stacked_column_chart.png)
 
 3. **Horizontal Bar Chart**:
     - Illustrates the distribution of listings by listing type, with the majority being of the "Entire home/apt" type, comprising approximately 52% of the total listings in the dataset.
   
-    ![Horizontal Bar Chart](path/to/horizontal_bar_chart.png)
+    ![Horizontal Bar Chart](horizontal_bar_chart.png)
 
 4. **Scatter Plot**:
     - Depicts the relationship between room type, price, and neighborhood group in the dataset, highlighting the distribution of prices across different room types and neighborhood groups.
 
-    ![Scatter Plot](path/to/scatter_plot.png)
+    ![Scatter Plot](scatterplot.png)
 
 5. **Scatter Map Plot**:
     - Illustrates the geographical distribution of listings in NYC based on latitude and longitude, with color-coded markers representing different room types.
       
-   ![Scatter Map Plot](path/to/scatter_map_plot.png)
+   ![Scatter Map Plot](path/to/scatterplot.png)
 
 6. **Bar Chart**:
      - Depicts the average listing prices in different neighborhood groups in NYC, highlighting variations in prices across neighborhoods. Manhattan has the highest average listing price of around 197$.
 
-     ![Bar Chart](path/to/bar_chart.png)
+     ![Bar Chart](avg_listing_price.png)
 7.  **Scatter Plot / Density Heat Map**:
      - It illustrates the concentration and pricing variations of listings across different neighborhoods in New York City. The blue dots highlight locations of key attractions, offering a spatial overview within the diverse NYC landscape.
-       
+
+        ![Bar Chart](heat_map.png)
 ## Combining Data and Correlation Analysis:
    - Combined data from normalized database tables.
    - Analyzed the correlation matrix to identify relationships between variables.
