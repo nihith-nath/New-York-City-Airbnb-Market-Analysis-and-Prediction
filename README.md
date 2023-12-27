@@ -91,7 +91,7 @@ During the Exploratory Data Analysis (EDA) phase, we visualized various aspects 
 1. **Donut Chart: Percentage Distribution of Listings Across Neighborhood Groups**
    - Manhattan & Brooklyn collectively dominate the market, with Manhattan (44.3%) and Brooklyn (41.1%) resulting in a combined share of over 80%.
 
-   ![Donut Chart](path/to/donut_chart.png)
+   ![Donut Chart](donut_chart.png)
 
 2. **Stacked Column Chart: Distribution of Listing Counts Based on Availability Bins and Location**
    - Approximately 40% of listings fall within the 0-20 days availability bin.
