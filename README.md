@@ -1,4 +1,4 @@
-# ☕ New-York-City-Airbnb-Market-Analysis-and-Price-Prediction 📈
+# New-York-City-Airbnb-Market-Analysis-and-Price-Prediction 📈
 
 New York City Airbnb Market Analysis and Price Prediction # Python Pro's is the name of the team I have collaborated with Keerthana Allam, Hithesh Duttuluri, Charan P.
 
