@@ -21,6 +21,8 @@ This dataset was obtained from Kaggle
 
 ## Airbnb Price Prediction Project DataSet Overview
 
+## Metadata
+
 | Column Name                       | Description                                            |
 |-----------------------------------|--------------------------------------------------------|
 | listing_name                      | The name of the Airbnb listing. (String)               |
