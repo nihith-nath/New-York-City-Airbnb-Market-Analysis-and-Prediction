@@ -4,8 +4,6 @@ Analyzing the dynamic NYC Airbnb market: Predicting prices, exploring geographic
 
 In this Project, we used the Airbnb NYC dataset from Kaggle. The main objectives were to handle data precisely and adhere to project guidelines. We used Python to parse the raw data, organized it into a well-structured database, and harnessed SQL to merge it for analysis using Pandas. Once these steps were completed, we had the freedom to choose our next path. We explored advanced data analysis with interactive elements and experimented with machine learning for predictions. Our project's success relied on executing each step meticulously, sharing our findings, and presenting a concise report.
 
-Here is the outcome of the notebook in HTML: [AirBNB Listing Analysis](AirBNB_Listing_Analysis.html) - pls download the file 📥
-
 # 🎯 Problem Statement
 
 In the ever-changing landscape of the New York City Airbnb market, our project aims to analyze data and predict prices, offering valuable insights for potential investors and discerning customers. Our main goal is to discover patterns that reveal areas with the highest number of listings, understand the factors influencing different costs, and grasp the preferences of both hosts and guests. By exploring the complex interactions between neighborhood characteristics, seasonal demand, and pricing dynamics, our research aims to equip new investors with decision-making tools and provide customers with a strategic advantage in selecting listings based on their preferences and budget constraints. This project provides a comprehensive understanding for hosts and guests, offering a valuable resource for strategic decision-making in the dynamic and popular Airbnb market.
@@ -117,6 +115,13 @@ During the Exploratory Data Analysis (EDA) phase, we visualized various aspects 
      - It illustrates the concentration and pricing variations of listings across different neighborhoods in New York City. The blue dots highlight locations of key attractions, offering a spatial overview within the diverse NYC landscape.
 
         ![Bar Chart](heat_map.png)
+
+# Data Transformation and Predictive Modeling:    
+To mitigate the impact of right-skewness in the original distribution of Airbnb listing prices, a logarithmic transformation was implemented during the analysis. This transformation aimed to create a more symmetrical distribution, thus improving the overall reliability of the dataset for subsequent analytical and modeling purposes. Moving forward, predictive modeling was executed using both Linear Regression and Ridge Regression models to forecast listing prices. Rigorous model evaluation ensued, employing key metrics such as Mean Absolute Error, Mean Squared Error, and R-squared. The study also included visualizations comparing actual and predicted prices, providing a comprehensive assessment of the models' accuracy in capturing variations in listing prices.    
+|                  |                                            |   
+| ------------------------------ | ----------------------------------------------------- |   
+| ![image](right_skewed_graph.png)| ![image](post_data_transformation.png)         |
+
 ## Combining Data and Correlation Analysis:
    - Combined data from normalized database tables.
    - Analyzed the correlation matrix to identify relationships between variables.
@@ -127,6 +132,8 @@ During the Exploratory Data Analysis (EDA) phase, we visualized various aspects 
 # 🌆 Conclusion
 
 In conclusion, our project conducted an in-depth analysis of the dynamic New York City Airbnb market, revealing significant insights. We meticulously explored room availability, categorized neighborhoods, and pinpointed locations near key tourist attractions, leading to the following key findings and insights.
+
+Here is the outcome of the notebook in HTML: [AirBNB Listing Analysis](AirBNB_Listing_Analysis.html) - pls download the file 📥
 
 ## 🔍 Key Findings:
 
