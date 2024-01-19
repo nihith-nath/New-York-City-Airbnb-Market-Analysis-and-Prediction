@@ -10,13 +10,9 @@ Here is the outcome of the notebook in HTML: [AirBNB Listing Analysis](AirBNB_Li
 
 In the ever-changing landscape of the New York City Airbnb market, our project aims to analyze data and predict prices, offering valuable insights for potential investors and discerning customers. Our main goal is to discover patterns that reveal areas with the highest number of listings, understand the factors influencing different costs, and grasp the preferences of both hosts and guests. By exploring the complex interactions between neighborhood characteristics, seasonal demand, and pricing dynamics, our research aims to equip new investors with decision-making tools and provide customers with a strategic advantage in selecting listings based on their preferences and budget constraints. This project provides a comprehensive understanding for hosts and guests, offering a valuable resource for strategic decision-making in the dynamic and popular Airbnb market.
 
-
 ## 📚 Code & Resources Used
-
-This dataset was obtained from Kaggle
 - Dataset: [Airbnb NYC Overview](https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview)
 - Data Source: The dataset was obtained from Kaggle. It comprises a dataset of size [48896*16] with columns including listing names, host details, location coordinates, pricing, and availability metrics.
-
 
 ## Airbnb Price Prediction Project DataSet Overview
 
